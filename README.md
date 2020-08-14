@@ -1,7 +1,7 @@
 # spring-boot-mvc-initialize
 
 ### Just a bit information about project
-How to implement MVC for a spring boot project which is answer => it's here
+How to implement MVC for a spring boot project => it's here
 
 ### Code
 1. Design BaseDTO
