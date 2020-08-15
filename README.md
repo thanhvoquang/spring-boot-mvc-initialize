@@ -4,7 +4,7 @@
 How to implement MVC for a spring boot project => it's here
 
 ### Code
-1. Design BaseDTO
+1. Design BaseDTO (if you use DTO)
 ```java
 @Setter
 @Getter
